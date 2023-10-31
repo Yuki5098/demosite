@@ -1,0 +1,9 @@
+.gel{
+    background: url("photo/水.png") no-repeat center center;
+}
+.text-area{
+    flex-direction: column;
+}
+.mini{
+    color: #6d6d6d;
+}
